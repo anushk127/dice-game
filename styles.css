@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "open Sans", serif;
+  background-color: #FFC4C4;
+}
+table {
+  margin: 30px auto 0 auto;
+}
+
+.img {
+  width: 30%;
+  margin: 10px auto 2px auto;
+  text-align: left;
+}
+
+.mark {
+  width: 10%;
+  float: left;
+  margin-right: 20px;
+}
+
+.angela {
+  width: 10%;
+  float: left;
+  margin-right: 20px;
+}
+
+.jacob {
+  width: 10%;
+  float: left;
+  margin-right: 20px;
+}
+
+.rizky {
+  width: 10%;
+  float: left;
+  margin-right: 20px;
+}
+.kimberly {
+  width: 10%;
+  float: left;
+  margin-right: 20px;
+}
+
+.nathan {
+  width: 10%;
+  float: left;
+  margin-right: 20px;
+}
+
+.anna {
+  width: 10%;
+  float: left;
+  margin-right: 20px;
+}
+p {
+  background-color: #F9989F;
+  margin: auto;
+}
+.attribution {
+  margin: 50px auto 50px auto;
+}
